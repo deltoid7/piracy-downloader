@@ -1,4 +1,6 @@
 # 티비룸 다운로더
+![downloads](https://img.shields.io/github/downloads/deltoid7/tvroom-downloader/total?label=downloads&color=blue&logo=github)
+![badge](https://img.shields.io/badge/status-active-brightgreen)<br>
 [티비룸](https://xn--jt2bx0hu7u.com/)에 게시된 영상을 다운로드 해주는 프로그램입니다.
 
 <br>
