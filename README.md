@@ -28,13 +28,14 @@ ip 기반 차단이니 vpn을 쓰시거나 [cloudflare warp](https://one.one.one
 
 ## 공지
 도움이 됐고, 연락처로 컨택 후 기부해 주실 아량이 있다면 베풀어주시면 감사하겠습니다.<br>
-전에 티비위키 버전도 494분이 다운로드 하셨는데, 구매하신 분은 몇 없으셨어요..
+전에 티비위키 버전도 494분이 다운로드 하셨는데, 구매하신 분은 몇 없으셨어요.. (참고로 현재는 WASM 기반 자체 DRM 사용 중)
 <img width="1701" height="346" alt="image" src="https://github.com/user-attachments/assets/e9e7840b-0974-4fb8-bfd4-1f043110230b" />
 
 <br>
 
 ## 연락처
-여러 잡다한 문의 가능
+여러 잡다한 문의 가능<br>
+완성하고 빨리빨리 업로드 안하는 편이라 필요한 것 있으면 연락하세요.
 
 ![](https://dcbadge.limes.pink/api/shield/1285574573877624924?style=flat?d=z)
 [![](https://img.shields.io/badge/DongjuTheDevloper-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/DongjuTheDeveloper)
