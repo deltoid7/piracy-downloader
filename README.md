@@ -1,7 +1,11 @@
 # 티비룸 다운로더
 ![downloads](https://img.shields.io/github/downloads/deltoid7/tvroom-downloader/total?label=downloads&color=blue&logo=github)
 ![badge](https://img.shields.io/badge/status-active-brightgreen)<br>
-[티비룸](https://xn--jt2bx0hu7u.com/)에 게시된 영상을 다운로드 해주는 프로그램입니다.
+[티비룸](https://xn--jt2bx0hu7u.com/)에 게시된 영상을 다운로드 해주는 프로그램입니다.<br>
+도움이 됐고, 연락처로 컨택 후 기부해 주실 아량이 있다면 베풀어주시면 감사하겠습니다.<br>
+전에 티비위키 버전도 494분이 다운로드 하셨는데, 구매하신 분은 몇 없으셨어요..
+<img width="1701" height="346" alt="image" src="https://github.com/user-attachments/assets/e9e7840b-0974-4fb8-bfd4-1f043110230b" />
+
 
 <br>
 
